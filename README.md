@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @0mnl
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning in college
